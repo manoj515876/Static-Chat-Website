@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    width: 100vh;
+}
+
+.heading {
+    background-color: #323f4b;
+    font-family: Roboto;
+    text-align: center;
+    color: #ffffff;
+    padding: 2px;
+}
+
+.blue {
+    background-color: #47a3f3;
+    margin: 50px 20px;
+    margin-bottom: 0px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.grey {
+    margin: 20px;
+    background-color: #52606d;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.para {
+    color: #ffffff;
+    text-align: right;
+    padding: 12px;
+    padding-left: 10px;
+}
+
+.para-last {
+    color: #ffffff;
+    text-align: left;
+    padding: 12px;
+    padding-left: 10px;
+}
+
+.blue-last {
+    background-color: #47a3f3;
+    margin: 20px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
